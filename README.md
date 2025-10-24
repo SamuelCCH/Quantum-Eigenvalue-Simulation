@@ -2,7 +2,6 @@
 
 This project implements a numerical approach for approximating eigenfunctions and eigenvalues of quantum mechanical systems governed by the time-independent Schrödinger equation. By combining the Runge–Kutta method for solving differential equations with a root-finding algorithm, the code determines energy levels for a range of standard potentials drawn from theoretical and research literature.
 
-The work was completed as part of the PHAS0029 Computational Physics module.
 
 
 
